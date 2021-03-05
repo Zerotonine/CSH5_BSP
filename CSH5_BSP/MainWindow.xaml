@@ -1,0 +1,29 @@
+﻿<Window x:Class="CSH5_BSP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSH5_BSP"
+        mc:Ignorable="d"
+        Title="RegExinator 5000" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+
+        <StackPanel>
+            <TextBlock Text="String zum durchsuchen"/>
+            <TextBox x:Name="txtText" />
+
+            <TextBlock Text="RegEx" Margin="0,20,0,0"/>
+            <TextBox x:Name="txtRegEx" />
+
+            <Button x:Name="btnCheckString" Content="_String prüfen" Margin="0,20,0,0" Click="btnCheckString_Click"/>
+            <Button x:Name="btnReset" Content="_Felder zurücksetzen" Margin="0,10,0,0" Click="btnReset_Click" />
+        </StackPanel>
+
+        <ListBox x:Name="lstResults" Grid.Column="1" />
+    </Grid>
+</Window>

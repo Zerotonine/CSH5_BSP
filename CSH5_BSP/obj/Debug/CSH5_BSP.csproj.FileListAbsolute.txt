@@ -1,0 +1,15 @@
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\bin\Debug\CSH5_BSP.exe.config
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\bin\Debug\CSH5_BSP.exe
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\bin\Debug\CSH5_BSP.pdb
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\obj\Debug\CSH5_BSP.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\obj\Debug\MainWindow.g.cs
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\obj\Debug\App.g.cs
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\obj\Debug\CSH5_BSP_MarkupCompile.cache
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\obj\Debug\CSH5_BSP_MarkupCompile.lref
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\obj\Debug\MainWindow.baml
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\obj\Debug\CSH5_BSP.g.resources
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\obj\Debug\CSH5_BSP.Properties.Resources.resources
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\obj\Debug\CSH5_BSP.csproj.GenerateResource.cache
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\obj\Debug\CSH5_BSP.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\obj\Debug\CSH5_BSP.exe
+C:\Users\Phil\source\repos\CSH5_BSP\CSH5_BSP\obj\Debug\CSH5_BSP.pdb
